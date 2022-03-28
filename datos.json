@@ -1,0 +1,30 @@
+[	
+	{
+		"name": "Twilight Sparkle",
+		"img": "https://raw.githubusercontent.com/dwvalle/JSON/main/Twilight%20sparkle.png"
+	},
+	{
+		"name": "Rainbow Dash",
+		"img": "https://raw.githubusercontent.com/dwvalle/JSON/main/rainbowdash.png"
+	},
+	{
+		"name": "Rarity",
+		"img": "https://raw.githubusercontent.com/dwvalle/JSON/main/rarity.png"
+	},
+	{
+		"name": "Spike",
+		"img": "https://raw.githubusercontent.com/dwvalle/JSON/main/spike.png"
+	},
+	{
+		"name": "AppleJack",
+		"img": "https://raw.githubusercontent.com/dwvalle/JSON/main/applejack.png"
+	},
+	{
+		"name": "Fluttershy",
+		"img": "https://raw.githubusercontent.com/dwvalle/JSON/main/fluttershy.png"
+	},
+	{
+		"name": "Pinkie Pie",
+		"img": "https://raw.githubusercontent.com/dwvalle/JSON/main/Pinkie%20Pie.png"
+	}
+]
